@@ -1,5 +1,5 @@
 <p align = "center">
-<img src="https://github.com/FIAPOS/the_good_bot/blob/master/assets/banner.png" width="500px">
+<img src="https://github.com/GustavoDuregger/the_good_bot_public/blob/master/assets/banner.png" width="500px">
 </p>
 
 ## Desenvolvedores
@@ -11,14 +11,14 @@
 
 ## Screenshots
 <p align = "center">
-  <img src="https://github.com/FIAPOS/the_good_bot/blob/master/screenshot/home.png" width="200px">
-  <img src="https://github.com/FIAPOS/the_good_bot/blob/master/screenshot/opcoes.png" width="200px">
-  <img src="https://github.com/FIAPOS/the_good_bot/blob/master/screenshot/opcoes1.png" width="200px">
-  <img src="https://github.com/FIAPOS/the_good_bot/blob/master/screenshot/saude.png" width="200px">
-  <img src="https://github.com/FIAPOS/the_good_bot/blob/master/screenshot/ansiedade.png" width="200px">
-  <img src="https://github.com/FIAPOS/the_good_bot/blob/master/screenshot/contatos.png" width="200px">
-  <img src="https://github.com/FIAPOS/the_good_bot/blob/master/screenshot/chatbot.png" width="200px">
-  <img src="https://github.com/FIAPOS/the_good_bot/blob/master/screenshot/gif.gif" width="215px">
+  <img src="https://github.com/GustavoDuregger/the_good_bot_public/blob/master/screenshot/home.png" width="200px">
+  <img src="https://github.com/GustavoDuregger/the_good_bot_public/blob/master/screenshot/opcoes.png" width="200px">
+  <img src="https://github.com/GustavoDuregger/the_good_bot_public/blob/master/screenshot/opcoes1.png" width="200px">
+  <img src="https://github.com/GustavoDuregger/the_good_bot_public/blob/master/screenshot/saude.png" width="200px">
+  <img src="https://github.com/GustavoDuregger/the_good_bot_public/blob/master/screenshot/ansiedade.png" width="200px">
+  <img src="https://github.com/GustavoDuregger/the_good_bot_public/blob/master/screenshot/contatos.png" width="200px">
+  <img src="https://github.com/GustavoDuregger/the_good_bot_public/blob/master/screenshot/chatbot.png" width="200px">
+  <img src="https://github.com/GustavoDuregger/the_good_bot_public/blob/master/screenshot/gif.gif" width="215px">
 </p>
 
 ## :sparkles: Tecnologias
@@ -38,7 +38,7 @@ Diante da prolongada quarentena que envolve um isolamento social, em função do
 The Good Bot é projeto desenvolvido dentro do N2020, um programa do Centro Universitário FIAP.
 
 <p align = "left">
-<img src="https://github.com/FIAPOS/the_good_bot/blob/master/screenshot/readmeImg/logo1.png" width="50px">
+<img src="https://github.com/GustavoDuregger/the_good_bot_public/blob/master/screenshot/readmeImg/logo1.png" width="50px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Fiap-logo-novo.jpg" width="100px">
 </p>
 
@@ -48,7 +48,7 @@ The Good Bot é projeto desenvolvido dentro do N2020, um programa do Centro Univ
 [![](http://img.youtube.com/vi/-bpCAnHOuwY/0.jpg)](http://www.youtube.com/watch?v=-bpCAnHOuwY "Pitch N2020 - The Good Bot")
 
 ## 💬 Funcionamento do Dialogflow
-<img src="https://github.com/FIAPOS/the_good_bot/blob/master/screenshot/readmeImg/0_lkAYsRwmp901Mq8K.png">
+<img src="https://github.com/GustavoDuregger/the_good_bot_public/blob/master/screenshot/readmeImg/0_lkAYsRwmp901Mq8K.png">
 Para fazer o chatbot funcionar é necessario inserir as credenciais do serviço
 
 
